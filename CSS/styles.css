@@ -1,0 +1,39 @@
+.container-fluid {
+    background-color: #f3f5f6;
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+.buttons {
+    margin-top: 15px;
+    width: 10rem;
+}
+
+.label-codigo {
+    font-size: 25px;
+    font-family: 'Rubik Dirt', cursive;
+}
+.label-email {
+    font-size: 20px;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.label-password {
+    font-size: 20px;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.form-loginUser {
+    background-color:#a1c0d1;
+}
